@@ -1,0 +1,7 @@
+/home/rakesh/Documents/GSTREAMER_PLUGINS/logoimpose/build/CMakeFiles/logoimpose.dir
+/home/rakesh/Documents/GSTREAMER_PLUGINS/logoimpose/build/CMakeFiles/edit_cache.dir
+/home/rakesh/Documents/GSTREAMER_PLUGINS/logoimpose/build/CMakeFiles/rebuild_cache.dir
+/home/rakesh/Documents/GSTREAMER_PLUGINS/logoimpose/build/CMakeFiles/list_install_components.dir
+/home/rakesh/Documents/GSTREAMER_PLUGINS/logoimpose/build/CMakeFiles/install.dir
+/home/rakesh/Documents/GSTREAMER_PLUGINS/logoimpose/build/CMakeFiles/install/local.dir
+/home/rakesh/Documents/GSTREAMER_PLUGINS/logoimpose/build/CMakeFiles/install/strip.dir

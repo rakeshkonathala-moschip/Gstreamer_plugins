@@ -1,0 +1,7 @@
+/home/rakesh/Documents/GSTREAMER_PLUGINS/drawshapes/build/CMakeFiles/drawshapes.dir
+/home/rakesh/Documents/GSTREAMER_PLUGINS/drawshapes/build/CMakeFiles/edit_cache.dir
+/home/rakesh/Documents/GSTREAMER_PLUGINS/drawshapes/build/CMakeFiles/rebuild_cache.dir
+/home/rakesh/Documents/GSTREAMER_PLUGINS/drawshapes/build/CMakeFiles/list_install_components.dir
+/home/rakesh/Documents/GSTREAMER_PLUGINS/drawshapes/build/CMakeFiles/install.dir
+/home/rakesh/Documents/GSTREAMER_PLUGINS/drawshapes/build/CMakeFiles/install/local.dir
+/home/rakesh/Documents/GSTREAMER_PLUGINS/drawshapes/build/CMakeFiles/install/strip.dir

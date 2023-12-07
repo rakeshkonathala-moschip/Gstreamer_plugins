@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libdrawshapes.so -o libdrawshapes.so CMakeFiles/drawshapes.dir/gstdrawshapes.c.o  -lgstreamer-1.0 -lgobject-2.0 -lglib-2.0 -lgstvideo-1.0 -lgstbase-1.0 -lgstreamer-1.0 -lgobject-2.0 -lglib-2.0 -lm -lgstvideo-1.0 -lgstbase-1.0 -lm 
